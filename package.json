@@ -1,6 +1,6 @@
 {
   "name": "owalk",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "JavaScript Object Walker Tools",
   "main": "index.js",
   "directories": {
