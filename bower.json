@@ -1,0 +1,30 @@
+{
+  "name": "owalk",
+  "main": "index.js",
+  "version": "0.2.0",
+  "authors": [
+    "Gilles Coomans <gilles.coomans@gmail.com>"
+  ],
+  "description": "JavaScript Object Walker Tools",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "traversal",
+    "property descriptor",
+    "query",
+    "js"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nomocas/owalk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "statics/libs/",
+    "test",
+    "tests"
+  ]
+}
